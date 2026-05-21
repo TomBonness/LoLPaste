@@ -1,0 +1,10 @@
+[package]
+name = "lolpaste"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+global-hotkey = "0.7"
+enigo = { version = "0.6", default-features = false }
+arboard = "3"
+core-foundation = "0.10"
